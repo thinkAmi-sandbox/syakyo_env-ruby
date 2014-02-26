@@ -1,0 +1,23 @@
+{
+  "sources": {
+    "apt": {
+      "locked_version": "2.3.8"
+    },
+    "ruby_build": {
+      "locked_version": "0.8.0"
+    },
+    "rbenv": {
+      "locked_version": "0.7.3",
+      "git": "git://github.com/fnichol/chef-rbenv.git",
+      "ref": "9afb4e5da2e6212504a12de3bbbd410cd96100f6"
+    },
+    "sublime-text": {
+      "locked_version": "0.1.0",
+      "git": "git://github.com/ephess/sublime-text.git",
+      "ref": "9ce85ad36fcb0a5f30fc507e743dd52697f7fed5"
+    },
+    "java": {
+      "locked_version": "1.19.2"
+    }
+  }
+}

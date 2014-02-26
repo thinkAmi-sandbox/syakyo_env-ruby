@@ -16,3 +16,7 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# Add
+vendor/bundle
+syakyo/.vagrant
